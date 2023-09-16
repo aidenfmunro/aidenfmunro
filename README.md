@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="left">
+    <img src="https://img.shields.io/badge/Age-18-blue" />
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
+</p>
 
-<!--
-**aidenfmunro/aidenfmunro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Aiden Munro</h1>
+<h3 align="left">MIPT DREC</h3>
+
+## Contacts
+* Email: [manro.e@phystech.edu](mailto:manro.e@phystech.edu)
+* Telegram: [aidenfmunro](https://telegram.me/aidenfmunro)
+* VK: [vk.com/a1dxn](https://vk.com/a1dxn)
