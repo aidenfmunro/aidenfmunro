@@ -11,4 +11,4 @@
 ## Contacts
 * Email: [manro.e@phystech.edu](mailto:manro.e@phystech.edu)
 * Telegram: [aidenfmunro](https://telegram.me/aidenfmunro)
-* VK: [vk.com/a1dxn](https://vk.com/a1dxn)
+* VK: [vk.com/aidxn](https://vk.com/aidxn)
