@@ -15,8 +15,7 @@
             
 #### My experience 📜: [CV](https://github.com/aidenfmunro/CV/blob/main/CV_MunroA.pdf)
 
----
-https://github-readme-streak-stats.herokuapp.com/?user=aidenfmunro
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidenfmunro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ```
 
